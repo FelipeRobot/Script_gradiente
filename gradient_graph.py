@@ -68,3 +68,7 @@ print(f"El mínimo local encontrado es: ({x}, {y}) con un valor de {min_value}")
 
 # Graficamos el progreso del descenso del gradiente
 plot_progress(x_vals, y_vals, f_vals)
+
+
+
+# Cambio para revisar pruebas en el repo
